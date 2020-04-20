@@ -14,7 +14,7 @@ function App(){
     </View>
 
     <View>
-    <Text style={styles.secondText}>Codetrain Colleage</Text>
+    <Text style={styles.secondText}>Codetrain College</Text>
     </View>
 
     <View >
